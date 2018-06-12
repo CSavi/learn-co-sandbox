@@ -1,6 +1,6 @@
 class DCDrinks::Venue 
   
-  attr_accessor :name, :location, :url, :drink_, :reviews
+  attr_accessor :name, :location, :url, :hh_time, :reviews
   
   def initialize 
   end 

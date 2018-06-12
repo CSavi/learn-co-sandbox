@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require './lib/dcdrinks  
+DCDrinks::CLI.new.call
